@@ -2,13 +2,13 @@
 A Python-based analysis of how price, genre, and player reviews relate to the success of games on Steam.
 # Factors Influencing the Success of Games on Steam
 # 1. Problem & User
-This project explores which factors (price, genre and player reviews) relate to Steam game success using review-based performance proxies.Findings support practical decision-making for indie developers, game publishers and industry investors.
+This project explores which factors (price, genre and player reviews) relate to Steam game success using review-based performance proxies. Findings support practical decision-making for indie developers, game publishers and industry investors.
 # 2. Data
-Source: Kaggle Steam Games Dataset
-URL: https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
-Access date: 24 April 2026
-Key fields: name, price, genres, positive reviews, negative reviews.
-Full dataset is not included due to file size; users must download the CSV file manually.
+Source: Kaggle Steam Games Dataset  
+URL: https://www.kaggle.com/datasets/artermiloff/steam-games-dataset  
+Access date: 24 April 2026  
+Key fields: name, price, genres, positive reviews, negative reviews.  
+Full dataset is not included due to file size; users must download the CSV file manually.  
 # 3. Methods
 Performed data cleaning: removed duplicates, missing values, zero-review games and top 1% price outliers.
 Built feature engineering: created total review count, positive review ratio and four price-band categories.
