@@ -23,8 +23,7 @@ Player reception has a moderate positive association with game popularity, thoug
 Pricing strategy and genre positioning are critical factors for game performance on Steam.
 # 5. How to run
 To reproduce the full analysis, you need the full dataset file `games_march2025_full.csv`.
-(1) Download `games_march2025_full.csv` from the original source:  
-   https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
+(1) Download `games_march2025_full.csv` from the original source: https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
 (2) Place `games_march2025_full.csv` in the same working directory as `steam_games_success_analysis.ipynb`.
 (3) Open the notebook in Jupyter Notebook.
 (4) Run all cells from top to bottom.
