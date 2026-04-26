@@ -25,12 +25,10 @@ Pricing strategy and genre positioning are critical factors for game performance
 To reproduce the full analysis, you need the full dataset file `games_march2025_full.csv`.
 (1) Download `games_march2025_full.csv` from the original source:  
    https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
-(2)Place `games_march2025_full.csv` in the same working directory as `steam_games_success_analysis.ipynb`.
+(2) Place `games_march2025_full.csv` in the same working directory as `steam_games_success_analysis.ipynb`.
 (3) Open the notebook in Jupyter Notebook.
 (4) Run all cells from top to bottom.
-# 6. Product link / Demo
-Full analysis file: complete Jupyter Notebook submitted alongside this document.
-Demo video: attached in the assignment submission, demonstrating full code execution, visual outputs and result interpretation.
+# 6. Demo
 # 7. Limitations
 Success is measured by review proxies, without direct revenue, sales or profit data.
 The analysis shows correlation rather than causal relationships between variables.
