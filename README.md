@@ -28,7 +28,8 @@ To reproduce the full analysis, you need the full dataset file `games_march2025_
 (3) Open the notebook in Jupyter Notebook.  
 (4) Run all cells from top to bottom.  
 # 6. Demo
-It briefly introduces my analysis process and outputs.
+It briefly introduces my analysis process and outputs.  
+https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/c0b36d981d084643a0747b87d2ace5f31d
 # 7. Limitations
 - This approach simplifies multi-genre titles and brings limitations to the final results.  
 - The analysis shows correlation, not causation.  
