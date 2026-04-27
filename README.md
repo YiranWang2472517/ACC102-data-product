@@ -29,7 +29,7 @@ To reproduce the full analysis, you need the full dataset file `games_march2025_
 (4) Run all cells from top to bottom.  
 # 6. Demo
 # 7. Limitations
-Success is measured by review proxies, without direct revenue, sales or profit data.  
-The analysis shows correlation rather than causal relationships between variables.  
-Key external factors including marketing, brand influence and platform promotion are excluded.  
-Multi-genre games are simplified to a single main genre, which may lose contextual information.  
+This approach simplifies multi-genre titles and brings limitations to the final results.  
+The analysis shows correlation, not causation.  
+Review-based metrics are proxies and do not directly represent revenue or profit. Meanwhile, external factors such as marketing are not taken into account.  
+Results reflect historical patterns and may not perfectly predict future performance. 
