@@ -1,5 +1,5 @@
 # ACC102-data-product
-A Python-based analysis of how price, genre, and player reviews relate to the success of games on Steam.
+A data analysis of how price, genre and reviews relate to Steam game success.
 # Factors Influencing the Success of Games on Steam
 # 1. Problem & User
 This project explores which factors (price, genre and player reviews) relate to Steam game success using review-based performance proxies.  
