@@ -16,7 +16,6 @@ Simplified genre analysis by extracting the first listed main genre and filterin
 Used median for skewed review count and mean for bounded positive ratio to ensure robust comparison.  
 Produced histograms, bar charts and scatter plots to visualise relationships between variables.  
 # 4. Key Findings
-# 13. Key Findings
 - Price has a clear association with typical game popularity and positive review rate.  
   High-priced games tend to have higher popularity and positive review rates, followed by mid-priced games.
 - game genres also affect a game’s success, and catering to players’ preferences is very important.
